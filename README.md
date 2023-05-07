@@ -39,6 +39,6 @@
   <a href="https://t.me/PAVEL_PAKH0M0V"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img></a> <a href="https://wa.me/9859906022"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a> <a href="mailto:pahomov.paul@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a> <a href="https://github.com/PakhomovPavel"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a> 
 </div>
 
-<div>
-  http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PakhomovPavel&theme=dracula
-</div>
+
+<img crc="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PakhomovPavel&theme=dracula"></img>
+
