@@ -40,5 +40,5 @@
 </div>
 
 
-<img crc="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PakhomovPavel&theme=dracula"></img>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PakhomovPavel&theme=dracula"></img>
 
