@@ -40,5 +40,5 @@
 </div>
 
 <div>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PakhomovPavel&theme=dracula)
+  http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PakhomovPavel&theme=dracula
 </div>
