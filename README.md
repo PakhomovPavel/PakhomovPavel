@@ -1,4 +1,3 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=PakhomovPavel)
 <div>
     <h1 align="center">Привет! Я Пахомов Павел <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
     <h2 align="center">Разработчик на Python</h2>
@@ -49,4 +48,4 @@
 
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PakhomovPavel&theme=dracula"></img>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PakhomovPavel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
